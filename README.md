@@ -65,3 +65,8 @@ git clone https://github.com/bamesserly/mu2e-mat.git
 cd mu2e-mat/
 root -l -q -b load.C+ runEventLoop.C+
 ```
+
+## Output
+
+![Events vs demmc.nhits](ntrackhits_CV_w_err_n_track_hits.png)
+![Fractional error](ntrackhits_ErrorSummary_Frac__n_track_hits.png)
